@@ -3,7 +3,7 @@ adjacency matrix base
 '''
 # #graphData[0] = # of nodes; graph[1] = # of edges
 print("input # of nodes followed by # of edges")
-graphData = list(map(int, input("").split()))
+graphData = list(map(int, input("").split()))https://github.com/trinity-y/quarantine-studying/blob/master/graphTheoryBases.py
 adjMatrix = [[0 for i in range(graphData[0] + 1)] for i in range(graphData[0] + 1)]#creates a graphData[0] x graphData[0] (not including 0 indexes) matrix filled with 0s
 print("input node neighbour pairs")
 for i in range(graphData[1]):
