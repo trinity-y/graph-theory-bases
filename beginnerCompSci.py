@@ -12,15 +12,8 @@ def power(base, exponent):
 	#BASE CASE: x^0 = 1
 	if exponent == 0:
 		return 1
-	#BODY: manipulate variable from base
+	#BODY: manipulate variable from base by calling self
 	else:
 		return base * power(base, exponent - 1)
-
-#/*adjacency list base IN C#*/ 
-
-
-#adjacency matrix base
-
-#depth for search base
 
 
