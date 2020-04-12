@@ -5,3 +5,6 @@
 ## storing graphs
 - adjacency matrix
 - adjacency list
+## to do
+- breadth & depth first search
+- djiksta's algorithim
