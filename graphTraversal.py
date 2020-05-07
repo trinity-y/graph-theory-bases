@@ -1,0 +1,5 @@
+'''
+graph traversal
+'''
+shortestPath = []
+graphWeights = []
