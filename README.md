@@ -5,6 +5,8 @@
 ## storing graphs
 - adjacency matrix
 - adjacency list
+## graphy theory
+- breadth first search
 ## to do
-- breadth & depth first search
+- depth first search
 - djiksta's algorithim
