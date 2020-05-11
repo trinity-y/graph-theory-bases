@@ -1,5 +1,0 @@
-'''
-graph traversal
-'''
-shortestPath = []
-graphWeights = []
