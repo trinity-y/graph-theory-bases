@@ -15,6 +15,7 @@ for i in range(graphData[1]):
 	adjList[nodeA].append(nodeB)
 	adjList[nodeB].append(nodeA)
 
+
 #BREADTH FIRST SEARCH
 def breadthFirstSearch(start):
 	visited = [False for i in range(len(adjList))]
@@ -30,4 +31,4 @@ def breadthFirstSearch(start):
 				result.append(neighbour)
 	return result
 
-print(breadthFirstSearch(0))
+print(breadthFirstSearch(int(input("breadth first search from where? "))))
