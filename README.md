@@ -5,7 +5,7 @@
 ## storing graphs
 - adjacency matrix
 - adjacency list
-## graphy theory
+## graph theory
 - breadth first search
 ## to do
 - depth first search
