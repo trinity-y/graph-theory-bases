@@ -7,6 +7,6 @@
 - adjacency list
 ## graph theory
 - breadth first search
-## to do
 - depth first search
-- djiksta's algorithim
+## to do
+- djiksta's algorithm
