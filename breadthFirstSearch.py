@@ -13,7 +13,6 @@ for i in range(graphData[1]):
 	nodeA = neighbourPair[0]
 	nodeB = neighbourPair[1]
 	adjList[nodeA].append(nodeB)
-	adjList[nodeB].append(nodeA)
 
 
 #BREADTH FIRST SEARCH
